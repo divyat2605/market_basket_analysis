@@ -186,9 +186,7 @@ Constraint-based mining focuses on **actionable and relevant patterns**.
 ## 👩‍💻 Author
 
 **Divya Tripathi**  
-RA2311003030547  
-B.Tech CSE Core – III Year / VI Semester  
-
+**(divyat2605**)
 ---
 
 ## 📜 License
@@ -198,8 +196,3 @@ This project is for **academic and educational purposes**.
 ---
 
 ⭐ *If you find this useful, feel free to star the repository!*
-## 👩‍💻 Author
-
-**Created by:** 
-Divya Tripathi (**divyat2605**)  
-  
